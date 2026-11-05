@@ -1,0 +1,212 @@
+{
+  "D1": [
+    "Abbey Street",
+    "Amiens Street",
+    "North Strand",
+    "Capel Street",
+    "Dorset Street",
+    "Henry Street",
+    "Mountjoy Square",
+    "Marlborough Street",
+    "North Wall",
+    "O'Connell Street",
+    "Parnell Square",
+    "Talbot Street"
+  ],
+  "D10": [
+    "Ballyfermot",
+    "Chapelizod",
+    "Kilmainham",
+    "Cherry Orchard"
+  ],
+  "D11": [
+    "Ballymun",
+    "Finglas",
+    "Ballygall",
+    "Glasnevin",
+    "Glasnevin Cemetery"
+  ],
+  "D12": [
+    "Bluebell",
+    "Crumlin",
+    "Inchicore",
+    "Harold's Cross",
+    "Kimmage",
+    "Ballymount",
+    "Drimnagh",
+    "Greenhills",
+    "Perrystown",
+    "Walkinstown"
+  ],
+  "D13": [
+    "Baldoyle",
+    "Bayside",
+    "Coolock",
+    "Donaghmede",
+    "Clongriffin",
+    "Sutton",
+    "Howth",
+    "Portmarnock",
+    "Ayrfield"
+  ],
+  "D14": [
+    "Churchtown",
+    "Clonskeagh",
+    "Dundrum",
+    "Goatstown",
+    "Rathfarnham",
+    "Windy Arbour"
+  ],
+  "D15": [
+    "Ashtown",
+    "Blanchardstown",
+    "Castleknock",
+    "Coolmine",
+    "Clonsilla",
+    "Corduff",
+    "Mulhuddart",
+    "Tyrrelstown",
+    "Ongar"
+  ],
+  "D16": [
+    "Ballinteer",
+    "Ballycullen",
+    "Ballyboden",
+    "Dundrum",
+    "Kilmashogue",
+    "Knocklyon",
+    "Rathfarnham",
+    "Edmondstown",
+    "Rockbrook"
+  ],
+  "D17": [
+    "Balgriffin",
+    "Coolock",
+    "Belcamp",
+    "Darndale",
+    "Priorswood"
+  ],
+  "D18": [
+    "Cabinteely",
+    "Carrickmines",
+    "Cherrywood",
+    "Foxrock",
+    "Loughlinstown",
+    "Kilternan",
+    "Sandyford",
+    "Shankill",
+    "Ticknock",
+    "Stepaside",
+    "Leopardstown"
+  ],
+  "D2": [
+    "Merrion Square",
+    "Trinity College",
+    "Temple Bar",
+    "Grafton Street",
+    "St Stephen's Green",
+    "Dame Street",
+    "Leeson Street"
+  ],
+  "D20": [
+    "Chapelizod",
+    "Palmerstown",
+    "Strawberry Beds"
+  ],
+  "D22": [
+    "Clondalkin",
+    "Palmerstown",
+    "Cherry Orchard",
+    "Newcastle"
+  ],
+  "D24": [
+    "Ballycullen",
+    "Firhouse",
+    "Jobstown",
+    "Old Bawn",
+    "Tallaght",
+    "Ballymount",
+    "Saggart",
+    "Rathcoole",
+    "Brittas"
+  ],
+  "D3": [
+    "Ballybough",
+    "Clonliffe",
+    "Clontarf",
+    "Dollymount",
+    "East Wall",
+    "East Point",
+    "Fairview",
+    "Drumcondra",
+    "Killester",
+    "North Strand",
+    "Marino"
+  ],
+  "D4": [
+    "Ballsbridge",
+    "Belfield",
+    "Donnybrook",
+    "Irishtown",
+    "Merrion",
+    "Pembroke",
+    "Ringsend",
+    "Sandymount"
+  ],
+  "D5": [
+    "Artane",
+    "Coolock",
+    "Beaumont",
+    "Harmonstown",
+    "Kilbarrack",
+    "Killester",
+    "Raheny"
+  ],
+  "D6": [
+    "Milltown",
+    "Ranelagh",
+    "Terenure",
+    "Harold's Cross",
+    "Rathmines",
+    "Dartry",
+    "Rathgar"
+  ],
+  "D6W": [
+    "Harold's Cross",
+    "Templeogue",
+    "Kimmage",
+    "Terenure"
+  ],
+  "D7": [
+    "Arbour Hill",
+    "Ashtown",
+    "Broadstone",
+    "Cabra",
+    "Grangegorman",
+    "Oxmantown",
+    "Phibsborough",
+    "Smithfield",
+    "Stoneybatter"
+  ],
+  "D8": [
+    "Dolphin's Barn",
+    "Inchicore",
+    "Islandbridge",
+    "Kilmainham",
+    "Portobello",
+    "South Circular Road",
+    "Phoenix Park",
+    "The Liberties"
+  ],
+  "D9": [
+    "Ballymun",
+    "Beaumont",
+    "Donnycarney",
+    "Drumcondra",
+    "Glasnevin",
+    "Botanic Gardens",
+    "Met Éireann",
+    "Santry",
+    "Whitehall"
+  ]
+}
